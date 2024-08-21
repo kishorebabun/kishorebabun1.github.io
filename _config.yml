@@ -1,0 +1,16 @@
+# Basic Site Settings
+title: "Professor Name"
+email: "professor@example.com"
+description: "A brief description of your academic and research interests."
+baseurl: "" # the subpath of your site, e.g. "/blog"
+url: "https://username.github.io" # the base hostname & protocol for your site
+theme: minima
+
+# Social Links
+social:
+  twitter_username: username
+  github_username: username
+  linkedin_username: username
+
+# Build settings
+markdown: kramdown
